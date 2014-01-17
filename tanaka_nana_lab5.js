@@ -43,6 +43,7 @@ function myFunctionAdd(x,symbol,y){
 	}
 }
 
+//sub function
 function myFunctionSub(x,symbol,y){
 	if(symbol == "-") {
 		console.log(x - y);
