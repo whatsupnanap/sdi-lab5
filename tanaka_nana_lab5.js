@@ -51,6 +51,7 @@ function myFunctionSub(x,symbol,y){
 
 }
 
+//tim function
 function myFunctionTim(x,symbol,y){
 	if(symbol == "*") {
 		console.log(x * y);
