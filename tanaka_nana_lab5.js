@@ -58,6 +58,7 @@ function myFunctionTim(x,symbol,y){
 	}
 }
 
+//dev function
 function myFunctionDev(x,symbol,y){
 	if(symbol == "/") {
 		console.log(x / y);
